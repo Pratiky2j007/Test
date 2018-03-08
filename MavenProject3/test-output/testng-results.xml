@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="8951" started-at="2018-01-30T04:23:57Z" finished-at="2018-01-30T04:24:06Z">
+    <groups>
+    </groups>
+    <test name="Nopackage" duration-ms="8951" started-at="2018-01-30T04:23:57Z" finished-at="2018-01-30T04:24:06Z">
+      <class name="tests.TestClass">
+        <test-method status="PASS" signature="Login()[pri:0, instance:tests.TestClass@3e6fa38a]" name="Login" is-config="true" duration-ms="8482" started-at="2018-01-30T09:53:57Z" finished-at="2018-01-30T09:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:tests.TestClass@3e6fa38a]" name="Test1" duration-ms="122" started-at="2018-01-30T09:54:05Z" finished-at="2018-01-30T09:54:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="Close()[pri:0, instance:tests.TestClass@3e6fa38a]" name="Close" is-config="true" duration-ms="345" started-at="2018-01-30T09:54:05Z" finished-at="2018-01-30T09:54:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close -->
+      </class> <!-- tests.TestClass -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite1 -->
+</testng-results>
